@@ -1,0 +1,11 @@
+pandas==3.0.3
+numpy==2.5.1
+scikit-learn==1.9.0
+joblib
+fastapi
+uvicorn
+streamlit
+plotly
+matplotlib
+nbformat
+
